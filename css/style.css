@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #2768d1;
+    box-shadow: 2px 2px 5px #8596b2;
+}
+
+.nav-item {
+    font-size: 1.4rem;
+    padding-right: 1.4rem;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.logoh3 {
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+.v-header {
+    height: 80vh;
+    color: #fff;
+    z-index: 5;
+}
+
+.fullscreen-video-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80vh;
+    overflow: hidden;
+}
+
+.fullscreen-video-wrap video {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.header-overlay {
+    height: 80vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #2f3031;
+    z-index: 0;
+    opacity: 0.85;
+}
+
+.header-content h1 {
+    z-index: 1;
+    padding-top: 230px; 
+    font-size: 150px;
+    margin-bottom: 100;
+    font-family: 'Annie Use Your Telescope', cursive; 
+    text-align: center;
+}
+
+.header-content p {
+    font-size: 2.5rem;
+    padding-bottom: 2rem;
+    display: block;
+    margin-top: 40px;
+    text-align: center; 
+}
+
+.genh1 {
+    font-size: 70px;
+    font-family: 'Annie Use Your Telescope', cursive;
+    color: #2f3031;
+    border-bottom: 2px solid #2768d1;
+    width: 50%;
+    margin: auto;
+}
+
+.btn {
+    background-color: #2768d1;
+    color: #fff;
+}
+
+.full-img {
+    background-image: url("../img/dog-faq.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.full-img2 {
+    background-image: url("../img/cat-faq.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.full-img3 {
+    background-image: url("../img/bird-faq.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.full-img4 {
+    background-image: url("../img/barn-faq.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.faq-header {
+    font-size: 55px;
+    color: #fff;
+    font-family: 'Annie Use Your Telescope', cursive;
+}
+
+.faq-p {
+    font-size: 25px;
+    color: #fff;
+}
+
+.color-button {
+    background-color: #2f3031
+}
+
+.contact-h1 {
+    color: #fff;
+}
+
+.contact-h2 {
+    font-size: 40px;
+}
+
+.mail-icon {
+    font-size: 130px;
+    color: #2768d1;
+}
+
+.phone-icon {
+    font-size: 130px;
+    color: #2768d1;
+}
+
+.contact-card {
+    border: 3px solid #2768d1;
+}
+
+.phone-num {
+    font-size: 35px;
+}
+
+.marg-bot {
+    margin-bottom: 23px;
+}
+
+.social-icons {
+    font-size: 120px;
+    color: #2768d1;
+}
+
+.address-wrapper {
+    font-size: 22px;
+}
